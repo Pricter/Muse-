@@ -1,0 +1,5 @@
+start happy_birthday_song
+
+song C-C-D-C-F-E--C-C-D-C-G-F--C-C-a-A-G-E-D--a-a-A-F-G-F
+
+end

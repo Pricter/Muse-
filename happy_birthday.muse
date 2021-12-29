@@ -1,5 +1,6 @@
 :duration 0.7
 :amplitude 1000
+:play-in-parralel
 
 :play c'
 :duration 0.5
@@ -20,6 +21,7 @@
 :play c'
 :play g'
 :duration 1.7
+:play-sequentially
 :play e'
 :duration 0.7
 :play c'
